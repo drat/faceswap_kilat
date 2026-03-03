@@ -2,7 +2,7 @@
 <img width="1536" height="1024" alt="ChatGPT Image 3 Mar 2026, 03 08 45" src="https://github.com/user-attachments/assets/99c83600-a82f-435b-90e2-e65569dfdfae" />
 
 # UBAH WAJAH DENGAN KECEPATAN ⚡ KILAT!
-**FaceSwap Kilat** adalah toolkit FaceSwap profesional berbasis **InsightFace + ONNXRuntime** yang dioptimalkan untuk performa tinggi pada CPU. Proyek ini menyediakan dua mode aplikasi:
+**FaceSwap Kilat** adalah toolkit FaceSwap profesional berbasis **InsightFace + ONNXRuntime** yang dioptimalkan untuk performa tinggi pada CPU. Proyek ini menyediakan tiga mode aplikasi:
         
 1. **FaceSwap Kilat Batch & GUI Web (Gradio)** — untuk pemrosesan batch dan penggunaan cepat melalui browser.
 2. **FaceSwap Kilat Webcam GUI web (Gradio)** — aplikasi browser realtime dengan virtual camera dan performa rendah latency.
